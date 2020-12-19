@@ -3,30 +3,32 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
 
-        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+        mergeSort(intArray, 0, intArray.length);
 
-        mergeSort(intArray,0, intArray.length);
-
-        for (int i = 0; i < intArray.length; i++){
-            System.out.println(intArray[i]);
+        for (int j : intArray) {
+            System.out.println(j);
         }
     }
 
-    public static void mergeSort(int[] input, int start, int end){
-        if(end - start < 2){
+    // { 20, 35, -15, 7, 55, 1, -22 }
+    public static void mergeSort(int[] input, int start, int end) {
+
+        if (end - start < 2) {
             return;
         }
 
-        int mid = (start + end)/2;
-        mergeSort(input, start,mid);
+        int mid = (start + end) / 2;
+        mergeSort(input, start, mid);
         mergeSort(input, mid, end);
         merge(input, start, mid, end);
-
     }
 
-    private static void merge(int[] input, int start, int mid, int end) {
-        if (input[mid -1] <= input[mid]){
+    // { 20, 35, -15, 7, 55, 1, -22 }
+    public static void merge(int[] input, int start, int mid, int end) {
+
+        if (input[mid - 1] <= input[mid]) {
             return;
         }
 
@@ -34,12 +36,15 @@ public class Main {
         int j = mid;
         int tempIndex = 0;
 
-        int[] tempArray = new int[end - start];
-        while (i < mid && j < end){
-            tempArray[tempIndex++] = input[i] <= input[j] ? input[i++] : input[j];
+        int[] temp = new int[end - start];
+        while (i < mid && j < end) {
+            temp[tempIndex++] = input[i] <= input[j] ? input[i++] : input[j++];
         }
 
-        System.arraycopy(input,i, input,start + tempIndex, mid - i);
-        System.arraycopy(tempArray, 0, input,  start, tempIndex);
+        System.arraycopy(input, i, input, start + tempIndex, mid - i);
+        System.arraycopy(temp, 0, input, start, tempIndex);
+
+
     }
+
 }
