@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algo.iml" filepath="$PROJECT_DIR$/algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksort.iml" filepath="$PROJECT_DIR$/quicksort.iml" />
     </modules>
   </component>
 </project>
