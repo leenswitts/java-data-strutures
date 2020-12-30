@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stable-countingsort/Stable-countingsort.iml" filepath="$PROJECT_DIR$/Stable-countingsort/Stable-countingsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/bubblesort/bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countingsorrt/countingsorrt.iml" filepath="$PROJECT_DIR$/countingsorrt/countingsorrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionsort/insertionsort.iml" filepath="$PROJECT_DIR$/insertionsort/insertionsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergesort/mergesort.iml" filepath="$PROJECT_DIR$/mergesort/mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksort/quicksort.iml" filepath="$PROJECT_DIR$/quicksort/quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radixsort/radixsort.iml" filepath="$PROJECT_DIR$/radixsort/radixsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursions/recursions.iml" filepath="$PROJECT_DIR$/recursions/recursions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectionsort/selectionsort.iml" filepath="$PROJECT_DIR$/selectionsort/selectionsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shellsort/shellsort.iml" filepath="$PROJECT_DIR$/shellsort/shellsort.iml" />
+    </modules>
+  </component>
+</project>

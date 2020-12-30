@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae1891bf-0da8-4099-a0b1-16424a952ae6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Stable-countingsort/Stable-countingsort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubblesort/bubblesort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/countingsorrt/countingsorrt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertionsort/insertionsort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergesort/mergesort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quicksort/quicksort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursions/recursions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/redixsort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redixsort/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selectionsort/selectionsort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shellsort/shellsort.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mOF8r42jQFDoMgjK2qUUTisyY0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1891bf-0da8-4099-a0b1-16424a952ae6" name="Default Changelist" comment="" />
+      <created>1609356574143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609356574143</updated>
+    </task>
+    <servers />
+  </component>
+</project>

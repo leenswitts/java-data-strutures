@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/redixsort.iml" filepath="$PROJECT_DIR$/redixsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radixsort.iml" filepath="$PROJECT_DIR$/radixsort.iml" />
     </modules>
   </component>
 </project>
