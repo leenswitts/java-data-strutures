@@ -19,5 +19,7 @@
    * In Java all arrays are dynamically allocated
    * A Java array variable can also be declared like other variables with [] after the data type.
    * The size of an array must be specified by an int value and not long or short.
+   
+   Read more about array at (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Sorting Algorithms
