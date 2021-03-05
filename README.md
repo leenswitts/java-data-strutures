@@ -23,3 +23,4 @@
    Read more about array at (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Sorting Algorithms
+### Bubble Sort
