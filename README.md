@@ -24,3 +24,5 @@
 
 ## Sorting Algorithms
 ### Bubble Sort
+### Merge Sort
+### Selection Sort
